@@ -42,7 +42,7 @@ body {
 	height: 350px;
 	display: flex;
 	flex-flow: row wrap;
-	
+
 }
 .skills-title {
 	align-self: center;
@@ -53,4 +53,9 @@ body {
 	display:flex;
 	flex-flow: row wrap;
 
+}
+
+
+.site-footer {
+	width: 100%;
 }
